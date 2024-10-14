@@ -1,0 +1,89 @@
+<svg width="62" height="48" viewBox="0 0 62 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="10.8333" cy="27.1591" rx="0.611111" ry="0.601769" fill="#1F1F1F" />
+    <ellipse cx="18.1667" cy="27.1591" rx="0.611111" ry="0.601769" fill="#1F1F1F" />
+    <ellipse cx="25.5" cy="27.1591" rx="0.611111" ry="0.601769" fill="#1F1F1F" />
+    <ellipse cx="36.5" cy="27.1591" rx="0.611111" ry="0.601769" fill="#1F1F1F" />
+    <path d="M22.75 7V8.50442" stroke="#1F1F1F" stroke-linecap="round" />
+    <rect x="20" y="22.3452" width="22" height="18.6548" stroke="#1F1F1F" />
+    <path d="M11.75 22.3452V24.4514" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M14.5 22.3452V24.4514" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M17.25 22.3452V24.4514" stroke="#1F1F1F" stroke-linecap="round" />
+    <rect width="11" height="18.6548" transform="matrix(-1 0 0 1 20 22.3452)" fill="white"
+        stroke="#1F1F1F" />
+    <rect x="20" y="22.3452" width="9.77778" height="3.61061" transform="rotate(180 20 22.3452)"
+        fill="white" stroke="#1F1F1F" />
+    <rect width="22" height="3.61061" transform="matrix(1 0 0 -1 20 22.3452)" fill="white"
+        stroke="#1F1F1F" />
+    <rect width="22" height="3.61061" transform="matrix(1 0 0 -1 20 18.7346)" stroke="#1F1F1F" />
+    <path
+        d="M20 12.7098C20 10.8862 21.0794 9.23553 22.75 8.50439V8.50439V8.50439C24.4206 9.23553 25.5 10.8862 25.5 12.7098V15.1239H20V12.7098Z"
+        fill="url(#paint0_linear_8861_13562)" stroke="#1F1F1F" />
+    <path d="M20 13H25.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M39.25 7V8.50442" stroke="#1F1F1F" stroke-linecap="round" />
+    <path
+        d="M36.5 12.7098C36.5 10.8862 37.5794 9.23553 39.25 8.50439V8.50439V8.50439C40.9206 9.23553 42 10.8862 42 12.7098V15.1239H36.5V12.7098Z"
+        fill="url(#paint1_linear_8861_13562)" stroke="#1F1F1F" />
+    <path
+        d="M24.8889 35.3662C24.8889 31.3052 27.2749 27.6232 30.9815 25.9641V25.9641C30.9933 25.9588 31.0068 25.9588 31.0185 25.9641V25.9641C34.7252 27.6232 37.1111 31.3052 37.1111 35.3662V41H24.8889V35.3662Z"
+        fill="url(#paint2_linear_8861_13562)" stroke="#1F1F1F" />
+    <path
+        d="M12.0555 32.7164C12.0555 31.0994 13.0056 29.6332 14.4816 28.9726V28.9726C14.4933 28.9674 14.5067 28.9674 14.5184 28.9726V28.9726C15.9944 29.6332 16.9444 31.0994 16.9444 32.7164V40.9997H12.0555V32.7164Z"
+        fill="url(#paint3_linear_8861_13562)" stroke="#1F1F1F" />
+    <ellipse cx="0.611111" cy="0.601769" rx="0.611111" ry="0.601769"
+        transform="matrix(-1 0 0 1 51.7778 26.5574)" fill="#1F1F1F" />
+    <ellipse cx="0.611111" cy="0.601769" rx="0.611111" ry="0.601769"
+        transform="matrix(-1 0 0 1 44.4445 26.5574)" fill="#1F1F1F" />
+    <path d="M50.25 22.3452V24.4514" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M47.5 22.3452V24.4514" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M44.75 22.3452V24.4514" stroke="#1F1F1F" stroke-linecap="round" />
+    <rect x="42" y="22.3452" width="11" height="18.6548" fill="white" stroke="#1F1F1F" />
+    <rect width="9.77778" height="3.61061" transform="matrix(1 0 0 -1 42 22.3452)" fill="white"
+        stroke="#1F1F1F" />
+    <path
+        d="M49.9445 32.7164C49.9445 31.0994 48.9944 29.6332 47.5184 28.9726V28.9726C47.5067 28.9674 47.4933 28.9674 47.4816 28.9726V28.9726C46.0056 29.6332 45.0556 31.0994 45.0556 32.7164V40.9997H49.9445V32.7164Z"
+        fill="url(#paint4_linear_8861_13562)" stroke="#1F1F1F" />
+    <path d="M36.5 13H41.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M20 24.5H9.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M53 24.5H42.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M50 13.5H57" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M46 10H50" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M5 41H57" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M22 15.5V18.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M24 15.5V18.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M26 15.5V18.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M28 15.5V18.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M30 15.5V18.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M32 15.5V18.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M34 15.5V18.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M36 15.5V18.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M38 15.5V18.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M40 15.5V18.5" stroke="#1F1F1F" stroke-linecap="round" />
+    <path d="M7 13H11" stroke="#1F1F1F" stroke-linecap="round" />
+    <defs>
+        <linearGradient id="paint0_linear_8861_13562" x1="20.0054" y1="11.8158" x2="25.5028"
+            y2="11.8158" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF7304" />
+            <stop offset="1" stop-color="#FB2A77" />
+        </linearGradient>
+        <linearGradient id="paint1_linear_8861_13562" x1="36.5054" y1="11.8158" x2="42.0028"
+            y2="11.8158" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF7304" />
+            <stop offset="1" stop-color="#FB2A77" />
+        </linearGradient>
+        <linearGradient id="paint2_linear_8861_13562" x1="24.901" y1="33.4816" x2="37.1173"
+            y2="33.4816" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF7304" />
+            <stop offset="1" stop-color="#FB2A77" />
+        </linearGradient>
+        <linearGradient id="paint3_linear_8861_13562" x1="12.0604" y1="34.985" x2="16.9469"
+            y2="34.985" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF7304" />
+            <stop offset="1" stop-color="#FB2A77" />
+        </linearGradient>
+        <linearGradient id="paint4_linear_8861_13562" x1="49.9396" y1="34.985" x2="45.0531"
+            y2="34.985" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF7304" />
+            <stop offset="1" stop-color="#FB2A77" />
+        </linearGradient>
+    </defs>
+</svg>

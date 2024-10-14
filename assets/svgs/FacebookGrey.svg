@@ -1,0 +1,15 @@
+<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Facebook" clip-path="url(#clip0_2948_15887)">
+        <path id="Vector"
+            d="M21.6666 0H3.66663C2.01213 0 0.666626 1.3455 0.666626 3V21C0.666626 22.6545 2.01213 24 3.66663 24H21.6666C23.3211 24 24.6666 22.6545 24.6666 21V3C24.6666 1.3455 23.3211 0 21.6666 0Z"
+            fill="#CACACA" />
+        <path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd"
+            d="M20.9166 12H17.1666V9C17.1666 8.172 17.8386 8.25 18.6666 8.25H20.1666V4.5H17.1666C15.9732 4.5 14.8286 4.97411 13.9846 5.81802C13.1407 6.66193 12.6666 7.80653 12.6666 9V12H9.66663V15.75H12.6666V24H17.1666V15.75H19.4166L20.9166 12Z"
+            fill="white" />
+    </g>
+    <defs>
+        <clipPath id="clip0_2948_15887">
+            <rect width="24" height="24" fill="white" transform="translate(0.666626)" />
+        </clipPath>
+    </defs>
+</svg>

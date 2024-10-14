@@ -1,0 +1,37 @@
+<svg width="104" height="104" viewBox="0 0 104 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="paint0_linear_3272_29211" x1="9.52236" y1="28.8277" x2="105.099"
+            y2="35.8693" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF006E" />
+            <stop offset="0.497159" stop-color="#FB5607" />
+            <stop offset="1" stop-color="#FFBE0B" />
+        </linearGradient>
+        <linearGradient id="paint1_linear_3272_29211" x1="47.7524" y1="40.4138" x2="57.3599"
+            y2="40.5554" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF006E" />
+            <stop offset="0.497159" stop-color="#FB5607" />
+            <stop offset="1" stop-color="#FFBE0B" />
+        </linearGradient>
+        <linearGradient id="paint2_linear_3272_29211" x1="47.7524" y1="40.4138" x2="57.3599"
+            y2="40.5554" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF006E" />
+            <stop offset="0.497159" stop-color="#FB5607" />
+            <stop offset="1" stop-color="#FFBE0B" />
+        </linearGradient>
+    </defs>
+    <g id="Exclamation Mark">
+        <g id="Group 1171278722">
+            <path id="Vector"
+                d="M52.0002 4.00009C25.6002 4.00009 4.00024 25.6001 4.00024 52C4.00024 78.4 25.6002 99.9999 52.0002 99.9999C78.4001 99.9999 100 78.4 100 52C100 25.6001 78.4001 4.00009 52.0002 4.00009Z"
+                stroke="url(#paint0_linear_3272_29211)" stroke-width="2" />
+            <g id="Vector_2">
+                <path
+                    d="M47.2002 71.2C47.2002 74.08 49.1202 76 52.0002 76C54.8802 76 56.8002 74.08 56.8002 71.2C56.8002 68.32 54.8802 66.4 52.0002 66.4C49.1202 66.4 47.2002 68.32 47.2002 71.2Z"
+                    stroke="url(#paint1_linear_3272_29211)" stroke-width="2" />
+                <path
+                    d="M52.0002 56.8C54.8802 56.8 56.8002 54.88 56.8002 52V32.8C56.8002 29.92 54.8802 28 52.0002 28C49.1202 28 47.2002 29.92 47.2002 32.8V52C47.2002 54.88 49.1202 56.8 52.0002 56.8Z"
+                    stroke="url(#paint2_linear_3272_29211)" stroke-width="2" />
+            </g>
+        </g>
+    </g>
+</svg>

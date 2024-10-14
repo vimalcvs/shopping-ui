@@ -1,0 +1,76 @@
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="24" height="25" fill="#2E2E2E" />
+    <g id="Nudges/ Entry Points">
+        <rect width="3461" height="7410" transform="translate(-449 -2474)" fill="#1F1F1F" />
+        <g id="Company page - without logo">
+            <g clip-path="url(#clip0_7248_57071)">
+                <rect x="-48" y="-635.736" width="360" height="900" rx="24" fill="white" />
+                <g id="Frame 1171279943">
+                    <rect width="360" height="476" transform="translate(-48 -367.736)"
+                        fill="#F5F6FB" />
+                    <g id="Frame 1171279989">
+                        <rect width="360" height="424" transform="translate(-48 -315.736)"
+                            fill="#F5F6FB" />
+                        <g id="Frame 1171279940">
+                            <rect width="360" height="216" transform="translate(-48 -107.736)"
+                                fill="white" />
+                            <g id="Frame 1171279987">
+                                <g id="Frame 1171279986">
+                                    <g id="Input field">
+                                        <g id="Frame 1171279991">
+                                            <g id="LinkedIn">
+                                                <rect width="32" height="32"
+                                                    transform="translate(-4 -3.73633)"
+                                                    fill="white" />
+                                                <g id="linkedin 1"
+                                                    clip-path="url(#clip1_7248_57071)">
+                                                    <g id="Clip path group">
+                                                        <mask id="mask0_7248_57071"
+                                                            style="mask-type:luminance"
+                                                            maskUnits="userSpaceOnUse" x="0" y="0"
+                                                            width="24" height="25">
+                                                            <g id="clip0_518_11496">
+                                                                <path id="Vector"
+                                                                    d="M24 0.263672H0V24.2637H24V0.263672Z"
+                                                                    fill="white" />
+                                                            </g>
+                                                        </mask>
+                                                        <g mask="url(#mask0_7248_57071)">
+                                                            <g id="Group">
+                                                                <path id="Vector_2"
+                                                                    d="M20.4 0.263672H3.6C1.61178 0.263672 0 1.87545 0 3.86367V20.6637C0 22.652 1.61178 24.2637 3.6 24.2637H20.4C22.3883 24.2637 24 22.652 24 20.6637V3.86367C24 1.87545 22.3883 0.263672 20.4 0.263672Z"
+                                                                    fill="#0073B0" />
+                                                                <path id="Vector_3"
+                                                                    d="M6.65626 8.4668C7.61412 8.4668 8.39063 7.6903 8.39063 6.73242C8.39063 5.77456 7.61412 4.99805 6.65626 4.99805C5.69838 4.99805 4.92188 5.77456 4.92188 6.73242C4.92188 7.6903 5.69838 8.4668 6.65626 8.4668Z"
+                                                                    fill="white" />
+                                                                <path id="Vector_4"
+                                                                    d="M11.4375 9.35742V18.6387M6.65625 9.35742V18.6387"
+                                                                    stroke="white"
+                                                                    stroke-width="3.09376" />
+                                                                <path id="Vector_5"
+                                                                    d="M12.9375 13.4824C12.9375 12.5449 13.547 11.6074 14.6251 11.6074C15.7501 11.6074 16.172 12.4511 16.172 13.7167V18.6387H19.2657V13.3417C19.2657 10.4824 17.7657 9.16992 15.7031 9.16992C14.1094 9.16992 13.3126 10.0605 12.9375 10.6699"
+                                                                    fill="white" />
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="clip0_7248_57071">
+            <rect x="-48" y="-635.736" width="360" height="900" rx="24" fill="white" />
+        </clipPath>
+        <clipPath id="clip1_7248_57071">
+            <rect width="24" height="24" fill="white" transform="translate(0 0.263672)" />
+        </clipPath>
+    </defs>
+</svg>

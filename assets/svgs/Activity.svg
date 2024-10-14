@@ -1,0 +1,22 @@
+<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Activity" clip-path="url(#clip0_6126_62288)">
+        <path id="Vector"
+            d="M7.98421 20.2809C12.3667 22.6262 17.8206 20.9746 20.1658 16.5921C22.5111 12.2096 20.8595 6.75567 16.477 4.41046C12.0945 2.06524 6.64057 3.71679 4.29535 8.09931C1.95014 12.4818 3.60169 17.9357 7.98421 20.2809Z"
+            stroke="#8C8C8C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            stroke-dasharray="1 4" />
+        <path id="Vector_2"
+            d="M4.68274 7.44497C7.38993 3.27632 12.9639 2.09157 17.1325 4.79875C21.3012 7.50594 22.4859 13.0799 19.7788 17.2486C19.0684 18.3425 18.1605 19.2309 17.1325 19.8975"
+            stroke="#8C8C8C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path id="Vector_3"
+            d="M3.40314 5.74316L3.56946 8.33085C3.57655 8.44108 3.67167 8.52509 3.78193 8.51849L4.99339 8.44598L6.40449 8.36153"
+            stroke="#8C8C8C" stroke-width="2" stroke-linecap="round" />
+        <path id="Vector_4"
+            d="M12.3332 7.69238V12.6783C12.3332 12.8265 12.4888 12.9232 12.6217 12.8576L16.5122 10.936"
+            stroke="#8C8C8C" stroke-width="2" stroke-linecap="round" />
+    </g>
+    <defs>
+        <clipPath id="clip0_6126_62288">
+            <rect width="24" height="24" fill="white" transform="translate(0.333313)" />
+        </clipPath>
+    </defs>
+</svg>

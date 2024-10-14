@@ -1,0 +1,59 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="paint0_linear_1815_11158" x1="15.8382" y1="9.84744" x2="17.6778"
+            y2="9.91887" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF006E" />
+            <stop offset="0.497159" stop-color="#FB5607" />
+            <stop offset="1" stop-color="#FFBE0B" />
+        </linearGradient>
+        <linearGradient id="paint1_linear_1815_11158" x1="4.82333" y1="10.0846" x2="10.3895"
+            y2="9.49207" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF006E" />
+            <stop offset="0.497159" stop-color="#FB5607" />
+            <stop offset="1" stop-color="#FFBE0B" />
+        </linearGradient>
+    </defs>
+    <g id="Products">
+        <g id="Clip path group">
+            <mask id="mask0_1815_11158" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2"
+                y="2" width="20" height="20">
+                <g id="clip0_1815_10963">
+                    <path id="Vector" d="M22 2H2V22H22V2Z" fill="white" />
+                </g>
+            </mask>
+            <g mask="url(#mask0_1815_11158)">
+                <g id="Group">
+                    <path id="Vector_2"
+                        d="M7.62402 6.73811C7.62402 6.02803 8.19965 5.45239 8.90973 5.45239H13.7002C14.4103 5.45239 14.9859 6.02803 14.9859 6.73811V20.9095C14.9859 21.0516 14.8708 21.1667 14.7288 21.1667H7.88116C7.73915 21.1667 7.62402 21.0516 7.62402 20.9095V6.73811Z"
+                        fill="white" stroke="#1F1F1F" />
+                    <path id="Vector_3"
+                        d="M9.83252 3.47611C9.83252 3.12107 10.1203 2.83325 10.4753 2.83325H12.1344C12.4894 2.83325 12.7773 3.12107 12.7773 3.47611V5.4523H9.83252V3.47611Z"
+                        fill="white" stroke="#1F1F1F" />
+                    <path id="Vector_4" d="M7.4292 19.5295H11.1102" stroke="#1F1F1F"
+                        stroke-linecap="round" />
+                    <path id="Vector_5"
+                        d="M13.8916 15.2557C13.8916 15.1452 13.9811 15.0557 14.0916 15.0557H19.2131C19.3235 15.0557 19.4131 15.1452 19.4131 15.2557V20.1668C19.4131 20.7191 18.9654 21.1668 18.4131 21.1668H14.8916C14.3393 21.1668 13.8916 20.7191 13.8916 20.1668V15.2557Z"
+                        fill="white" stroke="#1F1F1F" />
+                    <path id="Vector_6"
+                        d="M18.293 15.0557H15.012C14.9016 15.0557 14.812 14.9661 14.812 14.8557V12.6366C14.812 12.5262 14.9016 12.4366 15.012 12.4366H18.293C18.4034 12.4366 18.493 12.5262 18.493 12.6366V14.8557C18.493 14.9661 18.4034 15.0557 18.293 15.0557Z"
+                        fill="white" stroke="#1F1F1F" />
+                    <path id="Vector_7"
+                        d="M15.7324 10.503C15.7324 9.89495 16.0439 9.32929 16.5578 9.00427C16.6157 8.96765 16.6895 8.96765 16.7474 9.00427C17.2613 9.32929 17.5729 9.89495 17.5729 10.503V12.4364H15.7324V10.503Z"
+                        fill="url(#paint0_linear_1815_11158)" stroke="#1F1F1F" />
+                    <path id="Vector_8" d="M13.8916 16.8015H18.0327" stroke="#1F1F1F"
+                        stroke-linecap="round" />
+                    <path id="Vector_9" d="M8.24908 11.0913H6.37451V13.8392H8.24908V11.0913Z"
+                        fill="white" stroke="#1F1F1F" />
+                    <path id="Vector_10"
+                        d="M6.37441 11.0913H8.24899L9.8139 8.22386C9.97174 7.93465 9.81742 7.57637 9.49588 7.50448C8.89968 7.37119 7.99532 7.19849 7.3117 7.19849C6.62808 7.19849 5.72372 7.37119 5.12752 7.50448C4.80598 7.57637 4.65166 7.93465 4.8095 8.22386L6.37441 11.0913Z"
+                        fill="url(#paint1_linear_1815_11158)" stroke="#1F1F1F" />
+                    <path id="Vector_11"
+                        d="M6.37451 20.2292C6.37451 20.7469 6.79415 21.1665 7.3118 21.1665C7.82945 21.1665 8.24909 20.7469 8.24909 20.2292V13.8389H6.37451V20.2292Z"
+                        fill="white" stroke="#1F1F1F" />
+                    <path id="Vector_12" d="M4 4V6" stroke="#1F1F1F" stroke-linecap="round" />
+                    <path id="Vector_13" d="M3 5H5" stroke="#1F1F1F" stroke-linecap="round" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

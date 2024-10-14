@@ -1,0 +1,13 @@
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Check">
+        <path id="Vector" fill-rule="evenodd" clip-rule="evenodd"
+            d="M12.3022 22.9995C17.8252 22.9995 22.3022 18.5225 22.3022 12.9995C22.3022 7.47651 17.8252 2.99951 12.3022 2.99951C6.77925 2.99951 2.30225 7.47651 2.30225 12.9995C2.30225 18.5225 6.77925 22.9995 12.3022 22.9995Z"
+            fill="#E71313" />
+        <g id="Group 1171278706">
+            <path id="Vector 645" d="M8.30225 8.90649L16.3021 16.9063" stroke="white"
+                stroke-width="2" stroke-linecap="round" />
+            <path id="Vector 646" d="M16.3022 8.90649L8.30244 16.9063" stroke="white"
+                stroke-width="2" stroke-linecap="round" />
+        </g>
+    </g>
+</svg>
