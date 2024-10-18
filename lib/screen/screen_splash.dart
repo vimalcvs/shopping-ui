@@ -1,9 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:shopping/screen/screen_login.dart';
-import 'package:shopping/screen/screen_onboarding.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -11,6 +10,7 @@ class SplashScreen extends StatefulWidget {
   @override
   SplashScreenState createState() => SplashScreenState();
 }
+
 class SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
@@ -26,11 +26,9 @@ class SplashScreenState extends State<SplashScreen> {
         prefs.getBool('onboardingComplete') ?? false;
 
     if (hasCompletedOnboarding) {
-      Navigator.pushReplacement(context,
-          MaterialPageRoute(builder: (context) => const LoginScreen()));
+      context.go('/login');
     } else {
-      Navigator.pushReplacement(context,
-          MaterialPageRoute(builder: (context) => const OnboardingScreen()));
+      context.go('/onboarding');
     }
   }
 

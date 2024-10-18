@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:shopping/screen/screen_main.dart';
+import 'package:go_router/go_router.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -99,11 +99,7 @@ class LoginScreenState extends State<LoginScreen> {
               RoundedRectangleBorder(borderRadius: BorderRadius.circular(30.0)),
         ),
         onPressed: () {
-          // You might want to validate the phone number here
-          Navigator.push(
-              context,
-              MaterialPageRoute(
-                  builder: (context) => const OtpVerificationScreen()));
+          context.push('/otp');
         },
         child: const Text(
           "Get OTP",
@@ -191,8 +187,12 @@ class OtpVerificationScreenState extends State<OtpVerificationScreen> {
 
   @override
   void dispose() {
-    for (var controller in _otpControllers) controller.dispose();
-    for (var focusNode in _focusNodes) focusNode.dispose();
+    for (var controller in _otpControllers) {
+      controller.dispose();
+    }
+    for (var focusNode in _focusNodes) {
+      focusNode.dispose();
+    }
     super.dispose();
   }
 
@@ -279,11 +279,7 @@ class OtpVerificationScreenState extends State<OtpVerificationScreen> {
               RoundedRectangleBorder(borderRadius: BorderRadius.circular(30.0)),
         ),
         onPressed: () {
-          // You would typically verify the OTP here
-          Navigator.of(context).pushAndRemoveUntil(
-            MaterialPageRoute(builder: (context) => const MainScreen()),
-            (Route<dynamic> route) => false,
-          );
+          context.go('/main');
         },
         child: const Text(
           "Verify OTP",

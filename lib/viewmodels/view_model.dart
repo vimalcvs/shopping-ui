@@ -6,12 +6,15 @@ import 'package:shopping/models/model_product.dart';
 
 class ProductViewModel extends ChangeNotifier {
   List<Product> _products = [];
+
   List<Product> get products => _products;
 
   List<Product> _posters = [];
+
   List<Product> get posters => _posters;
 
   UiState _uiState = UiState.loading;
+
   UiState get uiState => _uiState;
 
   Future<void> fetchProducts(String category) async {

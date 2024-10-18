@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
 import 'package:shopping/models/model_product.dart';
 import 'package:shopping/utils/common.dart';
@@ -93,7 +94,9 @@ class ListBookmark extends StatelessWidget {
   Widget build(BuildContext context) {
     return ListTile(
       contentPadding: const EdgeInsets.symmetric(horizontal: 16.0),
-      onTap: () {},
+      onTap: () {
+        context.push('/detail/$product', extra: product);
+      },
       leading: ClipRRect(
         borderRadius: BorderRadius.circular(4.0),
         child: Image.network(

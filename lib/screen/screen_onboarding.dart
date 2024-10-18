@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:lottie/lottie.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:shopping/screen/screen_login.dart';
 
 class OnboardingScreen extends StatefulWidget {
   const OnboardingScreen({super.key});
@@ -43,7 +43,6 @@ class OnboardingScreenState extends State<OnboardingScreen> {
   }
 
   Widget _buildPage(int index) {
-    // Define your images, titles, and descriptions
     final List<Map<String, String>> pageData = [
       {
         'image': "assets/gifs/animation_1.json",
@@ -118,7 +117,7 @@ class OnboardingScreenState extends State<OnboardingScreen> {
   Widget _buildActionButton() {
     return Padding(
       padding: const EdgeInsets.only(
-          bottom: 100.0, left: 30.0, right: 30.0, top: 16.0),
+          bottom: 50.0, left: 30.0, right: 30.0, top: 16.0),
       child: ElevatedButton(
         style: ElevatedButton.styleFrom(
           backgroundColor: Colors.blue,
@@ -131,10 +130,7 @@ class OnboardingScreenState extends State<OnboardingScreen> {
           if (currentPage == totalPages - 1) {
             final prefs = await SharedPreferences.getInstance();
             await prefs.setBool('onboardingComplete', true);
-            Navigator.pushReplacement(
-              context,
-              MaterialPageRoute(builder: (context) => LoginScreen()),
-            );
+            context.go('/login');
           } else {
             _pageController.nextPage(
               duration: const Duration(milliseconds: 300),

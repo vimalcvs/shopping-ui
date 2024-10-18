@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:shopping/screen/home/screen_bookmark.dart';
 import 'package:shopping/screen/home/screen_favorites.dart';
+import 'package:shopping/screen/home/screen_home.dart';
 import 'package:shopping/screen/home/screen_profile.dart';
 import 'package:shopping/screen/home/screen_shopping.dart';
-import 'package:shopping/screen/home/test.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});

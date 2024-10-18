@@ -185,7 +185,6 @@ List<Category> getCategories() {
       subtitle: "Stylish and casual shirts",
       image: "assets/icon/offer_default_icon.png",
     ),
-
     Category(
       id: "mens-shoes",
       title: "Men's Shoes",
